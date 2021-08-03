@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DemoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-02T09:24:18" hostname="Shiyass-MacBook-Pro.local" time="0.013">
+  <properties/>
+  <testcase name="ifElse1()" classname="DemoTest" time="0.013"/>
+  <system-out><![CDATA[20 is greater than 10
+Blue
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
